@@ -1,4 +1,4 @@
-#Praktikum 1
+#Praktikum sATU
 print(type(10))
 
 print(type(10.1918))
